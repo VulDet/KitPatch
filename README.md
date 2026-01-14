@@ -53,8 +53,10 @@ pip install tree-sitter-c
         ├── generate_prompt.txt
         ├── repair_prompt.txt
     ├── source_code
-        ├── bigvul_data.json
-        ├── reposvul_data.json
+        ├── bigvul
+            ├── ...
+        ├── reposvul
+            ├── ...
    
 ```
 
